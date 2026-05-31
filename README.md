@@ -43,39 +43,14 @@ The physics follows Coulomb's law — each charge pushes or pulls the field, vec
 
 ## Demo
 
-> GitHub renders these inline — click the play button.
-
-**Overview — adding and moving charges**
-
-<video src="screenshots/magnets.mp4" controls width="100%"></video>
-
-**Scenario 1 — Repulsion (two equal positive charges)**
-
-<video src="videos/demo_scenario1_repulsion.mp4" controls width="100%"></video>
-
-**Scenario 2 — Dipole (opposite charges)**
-
-<video src="videos/demo_scenario2_dipole.mp4" controls width="100%"></video>
-
-**Scenario 3 — Quadrupole**
-
-<video src="videos/demo_scenario3_quadrupole.mp4" controls width="100%"></video>
-
-**Scenario 4 — Dynamic oscillating charges**
-
-<video src="videos/demo_scenario4_dynamic.mp4" controls width="100%"></video>
-
-**Switching between scenarios**
-
-<video src="videos/demo_scenario_switching.mp4" controls width="100%"></video>
-
-**Adding a charge at runtime**
-
-<video src="videos/demo_add_magnet.mp4" controls width="100%"></video>
-
-**Intensity over time chart (static probe)**
-
-<video src="videos/demo_intensity_chart.mp4" controls width="100%"></video>
+- [Overview — adding and moving charges](screenshots/magnets.mp4)
+- [Scenario 1 — Repulsion (two equal positive charges)](videos/demo_scenario1_repulsion.mp4)
+- [Scenario 2 — Dipole (opposite charges)](videos/demo_scenario2_dipole.mp4)
+- [Scenario 3 — Quadrupole](videos/demo_scenario3_quadrupole.mp4)
+- [Scenario 4 — Dynamic oscillating charges](videos/demo_scenario4_dynamic.mp4)
+- [Switching between scenarios](videos/demo_scenario_switching.mp4)
+- [Adding a charge at runtime](videos/demo_add_magnet.mp4)
+- [Intensity over time chart (static probe)](videos/demo_intensity_chart.mp4)
 
 ---
 
